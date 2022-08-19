@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/infinite-scroll/static/css/main.6289565e.css",
+    "main.js": "/infinite-scroll/static/js/main.17e9bc59.js",
+    "static/media/tumba.png": "/infinite-scroll/static/media/tumba.3686db1e925d6bc12caf.png",
+    "static/media/heart.svg": "/infinite-scroll/static/media/heart.177367b14cf84ca5253a66cdf50bdd3e.svg",
+    "static/media/cart.svg": "/infinite-scroll/static/media/cart.b34381ad9072edfde435c3696d34ced7.svg",
+    "index.html": "/infinite-scroll/index.html",
+    "main.6289565e.css.map": "/infinite-scroll/static/css/main.6289565e.css.map",
+    "main.17e9bc59.js.map": "/infinite-scroll/static/js/main.17e9bc59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6289565e.css",
+    "static/js/main.17e9bc59.js"
+  ]
+}
